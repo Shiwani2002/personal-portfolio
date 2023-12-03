@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+  text-decoration: none;
+  color: #000;
+}
+.rectangle
+{ border-radius: 2px;
+    width: 1440px;
+    height: 665px;
+    background: white;
+margin-left: 3%;
+margin-top: 3%;
+   color: #000;
+}
+.main{
+    width: 100%;
+    height: 20%;
+}
+.main h1{
+    text-align: center;
+  padding-top: 10px;
+}
+/* .vl{
+width: 100%;
+height: 80%;
+} */
+.rec1{ 
+  height: 38%;
+  width: 49%;
+ margin-left: 10px;
+ border-radius: 5px;
+ background-color: #b3adaa;
+    border:2px solid rgb(3, 3, 3) ;
+}
+ .rec1 {
+
+  transition: width 2s, height 2s, transform 1s;
+} 
+
+.rec1:hover {
+ 
+  transform: rotate(360deg);
+}
+.rec2{ 
+  height: 38%;
+  width: 49%;
+ margin-left: 50.3%;
+ border-radius: 5px;
+ border:2px solid rgb(9, 8, 8) ;
+    margin-top: -17.8%;
+    background-color: #b3adaa;
+}
+.rec2 {
+
+  transition: width 2s, height 2s,transform 2s;
+} 
+
+.rec2:hover {
+ 
+  transform: rotate(360deg);
+}
+.rec3{ 
+  height: 38%;
+  width: 49%;
+ margin-left: 10px;
+   margin-top: 1%;  
+ border-radius: 5px;
+ background-color: #b3adaa;
+ border:2px solid rgb(9, 8, 8) ;
+}
+.rec3 {
+
+  transition: width 2s, height 2s, transform 1s;
+} 
+
+.rec3:hover {
+ 
+  transform: rotate(360deg);
+}
+.rec4{ 
+  height: 38%;
+  width: 49%;
+ margin-left: 50.3%;
+ border-radius: 5px;
+ border:2px solid rgb(2, 2, 2) ;
+    margin-top: -17.8%;
+    background-color: #b3adaa;
+}
+.rec4 {
+
+  transition: width 2s, height 2s, transform 1s;
+} 
+
+.rec4:hover {
+ 
+  transform: rotate(360deg);
+}
+.rec1 h2{
+
+ width: 220px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 24px;
+  background-color: #f3530e;
+  border-radius: 10px;
+  margin-left: 35%;
+  margin-top: 10px;
+  padding: 8px;
+}
+h2:hover{
+  background: #fff;
+  color: #ff4d00;
+  transition: 2s;
+}
+.rec4 h2{
+
+  width: 220px;
+   text-align: center;
+   color: #fffefe;
+   font-size: 24px;
+   background-color: #f44c14;
+   border-radius: 10px;
+   margin-left: 35%;
+   margin-top: 10px;
+   padding: 8px;
+ }
+ h2:hover{
+  background: #fff;
+  color: #ff4d00;
+}
+ .rec2 h2{
+
+  width: 220px;
+   text-align: center;
+   color: #ffffff;
+   font-size: 24px;
+   background-color: #f44c14;
+   border-radius: 10px;
+   margin-left: 35%;
+   margin-top: 10px;
+   padding: 8px;
+ }
+ h2:hover{
+  background: #fff;
+  color: #ff4d00;
+}
+ .rec3 h2{
+
+  width: 220px;
+   text-align: center;
+   color: #fffbf9;
+   font-size: 24px;
+   background-color: #f44c14;
+   border-radius: 10px;
+   margin-left: 35%;
+   margin-top: 10px;
+   padding: 8px;
+ }
+ h2:hover{
+  background: #fff;
+  color: #ff4d00;
+}
+p{
+  margin-left: 10px;
+}
